@@ -6,3 +6,8 @@ There are Zigbee dimmers and Zigbee motion sensors installed in a corridor. The 
 
 Due to the environment, the raspberry pi is intalled on the metal grid ceiling. It is not a good environemnt for the Zigbee network, so the Zigbee coordinator cannot be in USB stick form which plugged in the USB port of the Raspberry Pi. Instead, I have take the reference from @egony/MODKAM-STICK-V3 (https://github.com/egony/MODKAM-STICK-V3), and make another Zigbee Coordinator board which is same size as the Raspberry Pi Zero and it will be connected to Raspberry Pi with a micro USB cable.
 
+For more information, please check the Wiki pages of this project.
+### Wiki Home
+https://github.com/Duncankn/Zigbee-Coordinator-TI-CC2538/wiki
+### Firmware flashing using OpenOCD and UART
+https://github.com/Duncankn/Zigbee-Coordinator-TI-CC2538/wiki/Firmware-flashing-using-OpenOCD-and-UART
